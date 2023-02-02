@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="ai_0">AI: 0</string>
+    <string name="reset">Reset</string>
+    <string name="player_vs_ai">Player vs AI</string>
+    <string name="choose_name_for_player_1">Choose Name for Player 1:</string>
+    <string name="choose_name_for_player_2">Choose Name for Player 2:</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="enter">Enter</string>
+    <string name="help">Help</string>
+    <string name="choose_ai_difficulty">Choose AI Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="help_summary">This is the game of Tic-Tac-Toe where you have to get three in a row using the symbols X\'s or O\'s.
+        This game also has an AI you can play against with a difficulty of easy or hard. You can go to settings to change the difficulty of the AI.
+        The reset button will reset the board and scores for each player. The playersVSAI button will allow you to play against the AI. To return the game to it\'s original state hit the reset button.
+        Enjoy!!!</string>
+    <string name="preferences_difficulty_summary">Choose difficulty level of the AI opponent</string>
+    <string-array name="difficulty_keys">
+        <item >Easy</item>
+        <item >Hard</item>
+    </string-array>
+    <string-array name="difficulty_values">
+        <item >0</item>
+        <item >1</item>
+    </string-array>
+    <string name="difficulty_default">0</string>
+</resources>
